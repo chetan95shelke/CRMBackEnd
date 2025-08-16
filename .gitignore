@@ -129,3 +129,4 @@ dmypy.json
 .vscode/
 pytest.ini
 .push.settings.jsonc
+.vs/slnx.sqlite
